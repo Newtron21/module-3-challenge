@@ -49,7 +49,9 @@ List your collaborators, if any, with links to their GitHub profiles.
 [friendly parakeet](<(https://github.com/coding-boot-camp/friendly-parakeet)>)
 
 \*I pulled code from our rock paper scissors challenge
+
 \*I pulled code from [here](https://www.w3schools.com/jsref/jsref_substring.asp)
+
 \*I pasted the user story and attributes in from
 [our canvas assignment webpage](<(https://courses.bootcampspot.com/courses/3765/assignments/57225?module_item_id=1005934)>)
 
