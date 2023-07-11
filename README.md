@@ -42,7 +42,7 @@ THEN the password is either displayed in an alert or written to the page
 
 Use for class for homework assignment
 
-[What page was supposed to look like](develop/assets/images/03-javascript-homework-demo.png)
+[What page was supposed to look like](./assets/images/03-javascript-homework-demo.png)
 
 ## Credits
 
