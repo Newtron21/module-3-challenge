@@ -42,7 +42,7 @@ THEN the password is either displayed in an alert or written to the page
 
 Use for class for homework assignment
 
-[What page was supposed to look like]([(https://ibb.co/9nxpyzC))
+[What page was supposed to look like]((https://ibb.co/9nxpyzC))
 
 ## Credits
 
