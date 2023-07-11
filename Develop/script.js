@@ -12,7 +12,7 @@ var generateBtn = document.querySelector("#generate");
 function writePassword() {
   // WHEN prompted for the length of the password
 // THEN I choose a length of at least 8 characters and no more than 128 characters
-  var passwordLengthNumber = window.prompt("What length of password type: 8-128", 8);
+  var passwordLengthNumber = window.prompt("How many characters do you want in your password: 8-128", 8);
   if (!passwordLengthNumber) {
     return;
   };    
@@ -128,8 +128,8 @@ console.log("Special characters used= "+charSpecial);
 //combining all the character options
 var passwordCharacters= (charLower+charUpper+charSpecial+charNumerical)
 for (var i =0; i <=newLength; i++){
-  var pullRandom = Math.floor(Math.random()*passwordCharacters.length);
-  newPassword += passwordCharacters.substring(pullRandom, pullRandom +1);
+  var pullCharacter = Math.floor(Math.random()*passwordCharacters.length);
+  newPassword += passwordCharacters.substring(pullCharacter, pullCharacter +1);
 }
 // var index = Math.floor(Math.random() * passwordCharacters.length); pulled from rock paper scissors code
 
