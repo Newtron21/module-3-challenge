@@ -3,8 +3,11 @@
 ## Description
 
 -My motivation was to build a javascript program that met Userstory, acceptance criteria and learn more about javascript in the process.
+
 -I built this project to understand javascript and generate passwords for security.
+
 -It solved the problem of password-protecting sensitive data and making sure passwords met parameters.
+
 -I learned the ins and outs of javascript and how to apply it to real-world situations.
 
 ## Installation
@@ -50,7 +53,7 @@ List your collaborators, if any, with links to their GitHub profiles.
 
 \*I pulled code from our rock paper scissors challenge
 
-\*I pulled code from [here](https://www.w3schools.com/jsref/jsref_substring.asp)
+\*I pulled code I learned from [here](https://www.w3schools.com/jsref/jsref_substring.asp)
 
 \*I pasted the user story and attributes in from
 [our canvas assignment webpage](<(https://courses.bootcampspot.com/courses/3765/assignments/57225?module_item_id=1005934)>)
