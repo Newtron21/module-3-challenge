@@ -42,14 +42,14 @@ THEN the password is either displayed in an alert or written to the page
 
 Use for class for homework assignment
 
-[What page was supposed to look like](./assets/images/03-javascript-homework-demo.png)
+[What page was supposed to look like]([(https://ibb.co/9nxpyzC))
 
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
 
 \*Pulled original code from this git hub repo
-[friendly parakeet](<(https://github.com/coding-boot-camp/friendly-parakeet)>)
+[friendly parakeet]((https://github.com/coding-boot-camp/friendly-parakeet))
 
 \*I pulled code from our rock paper scissors challenge
 
